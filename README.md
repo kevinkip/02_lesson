@@ -9,7 +9,7 @@
   </a>
 </p>
 
-![]([insert gif here](https://github.com/kevinkip/Acme_Rockets/blob/master/build/img/Acme-Rockets.gif))
+![](https://github.com/kevinkip/Acme_Rockets/blob/master/build/img/Acme-Rockets.gif)
 
 * Website: kevinkip
 * Twitter: [@kipl33](https://twitter.com/kipl33)
